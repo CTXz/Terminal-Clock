@@ -27,8 +27,9 @@ sudo make install
 ```
 
 # Executing The Application
-```
+
 Simply enter
+
 ```
 TermClock 
 ```
