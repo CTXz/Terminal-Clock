@@ -34,3 +34,7 @@ Simply enter
 TermClock 
 ```
 into the terminal
+
+
+![alt text](TermClock.png "Terminal Clock")
+
